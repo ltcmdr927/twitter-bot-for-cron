@@ -27,7 +27,7 @@ class DOCU
     end
   end
   # GENERATE message
-  def generageMsg
+  def generateMsg
     msg = ''
     return msg.toutf8
   end
